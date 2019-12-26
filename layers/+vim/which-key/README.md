@@ -29,4 +29,4 @@ Key Binding    | Mode           | Description
 ## Related projects
 
 - [quickmenu.vim](https://github.com/skywind3000/quickmenu.vim)
-- [vim-which-key](https://github.com/liuchengxu/vim-which-key)
+- [vim-which-key](https://github.com/k81/vim-which-key)

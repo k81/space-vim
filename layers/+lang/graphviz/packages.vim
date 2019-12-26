@@ -1,1 +1,1 @@
-MP 'liuchengxu/graphviz.vim'
+MP 'k81/graphviz.vim'

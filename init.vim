@@ -11,7 +11,7 @@
 "   and don't have to take care of this file.
 "
 "   Author: Liu-Cheng Xu <xuliuchengxlc@gmail.com>
-"   URL: https://github.com/liuchengxu/space-vim
+"   URL: https://github.com/k81/space-vim
 "   License: MIT
 
 scriptencoding utf-8

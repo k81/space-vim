@@ -45,7 +45,7 @@ CHANGELOG
 - optimize `core/autoload/spacevim.vim`.(#336)
 - load `editorconfig-vim` via timer instead of on-demand loading.
 - replace `vim-leaderGuide` with `vim-which-key`.
-- replace `wannesm/wmgraphviz.vim` with `liuchengxu/graphviz.vim`.
+- replace `wannesm/wmgraphviz.vim` with `k81/graphviz.vim`.
 
 ### Removed
 

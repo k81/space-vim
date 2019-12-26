@@ -1,8 +1,8 @@
-MP 'liuchengxu/space-vim-dark'
-MP 'liuchengxu/space-vim-theme'
+MP 'k81/space-vim-dark'
+MP 'k81/space-vim-theme'
 
-MP 'liuchengxu/vim-better-default'
+MP 'k81/vim-better-default'
 
 if !spacevim#load_any('airline', 'lightline')
-  MP 'liuchengxu/eleline.vim'
+  MP 'k81/eleline.vim'
 endif

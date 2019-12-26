@@ -18,7 +18,7 @@ if g:spacevim.gui && !has('terminal')
   " }
 else
   " fzf.vim {
-  " Refer to https://github.com/liuchengxu/space-vim/issues/364
+  " Refer to https://github.com/k81/space-vim/issues/364
   let $LANG = 'en_US.UTF-8'
 
   if exists('*nvim_open_win')
