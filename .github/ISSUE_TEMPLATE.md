@@ -1,5 +1,5 @@
 
-Before you continue, ensure you have read the [README](https://github.com/k81/space-vim/blob/master/README.md) and [wiki](https://github.com/k81/space-vim/wiki) carefully. **Note that low quality issue feedback might be closed directly**.
+Before you continue, ensure you have read the [README](https://github.com/liuchengxu/space-vim/blob/master/README.md) and [wiki](https://github.com/liuchengxu/space-vim/wiki) carefully. **Note that low quality issue feedback might be closed directly**.
 
 ### Environment
 

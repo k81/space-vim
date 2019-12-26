@@ -52,7 +52,7 @@ g:spacevim_layers                                           *g:spacevim_layers*
   Default: `['fzf', 'better-defaults', 'which-key']`
 
   Enable the existing layer in space-vim. Check out all the avaliable layers at
-  https://github.com/k81/space-vim/blob/master/layers/LAYERS.md
+  https://github.com/liuchengxu/space-vim/blob/master/layers/LAYERS.md
 
 g:spacevim_lsp_engine                                   *g:spacevim_lsp_engine*
 
@@ -115,4 +115,4 @@ g:spacevim_enable_clap                                     *g:spacevim_enable_cl
   Type: |Number|
   Default: `0`
 
-  Use https://github.com/k81/vim-clap as the plugin of fzf layer.
+  Use https://github.com/liuchengxu/vim-clap as the plugin of fzf layer.

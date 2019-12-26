@@ -13,7 +13,7 @@
 
 This layer adds support for syntax checking.
 
-![screenshot](https://raw.githubusercontent.com/k81/img/master/space-vim/layers/ALE.png)
+![screenshot](https://raw.githubusercontent.com/liuchengxu/img/master/space-vim/layers/ALE.png)
 
 ## Install
 
